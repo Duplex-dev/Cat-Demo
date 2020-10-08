@@ -1,0 +1,27 @@
+body
+{
+    background-color: red;
+    color: white;
+}
+
+h1
+{
+    color: Blue;
+    font-size: 100px;
+}
+.paragraphe
+{
+    font-size: 50px;
+    background-color: black;
+    padding: 15px;
+    width: 60%;
+    float: right;
+    height: auto;
+    color: cyan;
+}
+p
+{
+    font-size: 50px;
+    font-family: sans-serif;
+   /* color: white*/
+}
